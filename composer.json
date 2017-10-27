@@ -1,0 +1,11 @@
+{
+    "name": "burritodev/smooth-db",
+    "type": "library",
+    "authors": [
+        {
+            "name": "BurritoDev",
+            "email": "BurritoDev@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
